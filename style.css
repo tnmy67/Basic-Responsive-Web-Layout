@@ -129,11 +129,13 @@ h1 {
 h4 {
     color: #fff;
     margin: 15px 0;
+    cursor: pointer;
 
 }
 
 .footer-top ul {
     list-style: none;
+
 }
 
 .footer-top ul li a {
